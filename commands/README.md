@@ -35,3 +35,5 @@ For more information, view the [first time git setup] (https://git-scm.com/book/
 
 - [git commit](./commands/Commit.md)
 
+- [git remote](./commands/Remote.md)
+
