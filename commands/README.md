@@ -27,4 +27,4 @@ For more information, view the [first time git setup] (https://git-scm.com/book/
 [Back to home] (../README.md)
 
 ## Git Commands
-- [git config] (./commands/Config.md)
+- [git config](./commands/Config.md)
