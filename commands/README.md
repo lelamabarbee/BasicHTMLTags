@@ -41,3 +41,5 @@ For more information, view the [first time git setup] (https://git-scm.com/book/
 
 - [git pull](./command/Pull.md)
 
+- [git status](./command/Status.md)
+
