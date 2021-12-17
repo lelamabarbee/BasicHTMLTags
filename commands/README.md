@@ -39,3 +39,5 @@ For more information, view the [first time git setup] (https://git-scm.com/book/
 
 - [git push](./commands/Push.md)
 
+- [git pull](./command/Pull.md)
+
