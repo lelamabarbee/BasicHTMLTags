@@ -33,3 +33,5 @@ For more information, view the [first time git setup] (https://git-scm.com/book/
 
 - [git add](./commands/Add.md)
 
+- [git commit](./commands/Commit.md)
+
