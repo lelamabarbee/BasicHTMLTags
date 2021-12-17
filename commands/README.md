@@ -28,3 +28,6 @@ For more information, view the [first time git setup] (https://git-scm.com/book/
 
 ## Git Commands
 - [git config](./commands/Config.md)
+
+- [git init](./commands/Init.md)
+
